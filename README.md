@@ -12,9 +12,13 @@ When running the image first user needs to login and setup environmental variabl
 foo@bar:~$ cd ~/ibsimu/ibsimu_config
 foo@bar:~$ ./ibsimu_config.
 foo@bar:~$ source ~/.bashrc
-foo
+
 ```
 
 
 For testing purposes there are two models in the folder /home/ubuntu/ibsimu/ibsimu_tests
 To run the go to the folder, make, then run executable. 
+
+If you are interested in the detail of what is going on there is short blog [article](https://medium.com/@andrey-shornikov/ibsimu-simulation-package-in-a-docker-container-b14203aa57b0) with explanations.
+
+
